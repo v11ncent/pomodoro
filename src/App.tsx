@@ -1,9 +1,9 @@
-import './App.css';
+import './App.scss';
 
 function App() {
 	return (
 		<>
-			<h1>Pomodoro Clock</h1>
+			<h1 className="proj-title">Pomodoro Clock</h1>
 		</>
 	);
 }
